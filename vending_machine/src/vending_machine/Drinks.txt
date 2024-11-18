@@ -1,0 +1,12 @@
+Pepsi,2.0,14,11
+Coca Cola,2.0,17,9
+Sprite,2.0,10,5
+100 plus,2.0,19,16
+Fanta Orange,2.0,7,11
+Mountain Dew,3.5,9,17
+Milo Can,2.5,6,11
+Mineral Water,1.5,20,2
+A&W,2.0,10,11
+Nescafe Latte,2.0,20,6
+Yeos Drink Chrysanthemum Tea,2.0,2,6
+Kickapoo,2.0,4,29

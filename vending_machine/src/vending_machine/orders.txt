@@ -1,0 +1,12 @@
+19-Aug-2023,14:58:23,Yeos Drink Chrysanthemum Tea,1,Cash,RM3.00,RM1.00,RM2.00
+19-Aug-2023,15:00:28,Nescafe Latte,2,Debit/Credit Card,RM4.00,RM0.00,RM4.00
+19-Aug-2023,15:12:46,Fanta Orange,1,Cash,RM4.00,RM2.00,RM2.00
+19-Aug-2023,16:15:33,Pepsi,1,E-Wallet,RM2.00,RM0.00,RM2.00
+19-Aug-2023,16:53:14,Kickapoo,5,E-Wallet,RM10.00,RM0.00,RM10.00
+19-Aug-2023,16:59:18,100 plus,1,Cash,RM5.00,RM3.00,RM2.00
+19-Aug-2023,16:59:18,Milo Can,1,Debit/Credit Card,RM2.50,RM0.00,RM2.50
+19-Aug-2023,20:48:05,Coca Cola,1,Cash,RM5.00,RM3.00,RM2.00
+19-Aug-2023,21:02:08,Nescafe Latte,1,E-Wallet,RM2.00,RM0.00,RM2.00
+19-Aug-2023,21:32:17,Kickapoo,2,Cash,RM5.00,RM1.00,RM4.00
+19-Aug-2023,22:44:26,Kickapoo,2,E-Wallet,RM5.00,RM1.00,RM4.00
+19-Aug-2023,23:37:03,Nescafe Latte,1,Cash,RM10.00,RM8.00,RM2.00
